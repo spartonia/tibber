@@ -28,7 +28,7 @@ def fetch_rates(date):
 def insert_rates(_q, _values, _date, cursor=None):
     print("Inserting..")
     try:
-        cursor.execute(_q, _values)
+        cursor.executemany(_q, _values)
     except Exception as e:
         print(f"Couldn't insert rates. Error: {e} ")
     else:
@@ -42,13 +42,17 @@ def fetch_rates_and_insert(_date=None):
     j = fetch_rates(_date)
     
 
-    date = dateparser.parse(j['date']).date()
     rates = j['rates']
-    cols = ', '.join([k.upper() for k in rates.keys()])
-    vals = [date] + [str(v) for v in rates.values()]
-    vals_place_holder = ', '.join(['%s' for _ in vals]) 
-    q = """
-        INSERT INTO rate(date, {cols}) VALUES ({vals});
-    """.format(cols = cols, vals =vals_place_holder)
+   
+    values = [dict(
+        date = _date,
+        from_currency = j['base'],
+        to_currency = currency,
+        rate = rate
+    ) for currency, rate in rates.items()]
 
-    insert_rates(q, vals, date)
+    q = """
+        INSERT INTO rate(date, from_currency, to_currency, rate)
+        VALUES (%(date)s, %(from_currency)s, %(to_currency)s, %(rate)s);
+    """
+    insert_rates(q, values, _date)
