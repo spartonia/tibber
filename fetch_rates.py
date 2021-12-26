@@ -1,16 +1,10 @@
 import requests
 import warnings
-import dateparser
 
 from datetime import datetime
 
 from db import with_cursor
 
-# Ignore dateparser warnings regarding pytz
-warnings.filterwarnings(
-    "ignore",
-    message="The localize method is no longer necessary, as this time zone supports the fold attribute",
-)
 
 def fetch_rates(date):
     print(f"Fetching rates for {date}")
