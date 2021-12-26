@@ -52,7 +52,7 @@ def insert_products(cursor=None):
         product_id = item['market'] + '-' + item['variation_sku'],
         product_name = item['product_name'],
         purchase_price = item['purchase_price'],
-        installation = item['installation'],
+        installation = True if item['installation'] == 'TRUE' else False,
         currency = COUNTRY_CODE_TO_CURRENCY.get(item['market'])
     ) for item in items]
 

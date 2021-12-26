@@ -16,7 +16,6 @@ def fetch_rates(date):
     print(f"Fetching rates for {date}")
     try:
         _url = f"https://api.vatcomply.com/rates?base=NOK&date={date}"
-        print(_url)
         response = requests.get(_url)
         j = response.json()
     except Exception as e:
@@ -45,7 +44,7 @@ def fetch_rates_and_insert(_date=None):
 
     date = dateparser.parse(j['date']).date()
     rates = j['rates']
-    cols = ', '.join([k.lower() for k in rates.keys()])
+    cols = ', '.join([k.upper() for k in rates.keys()])
     vals = [date] + [str(v) for v in rates.values()]
     vals_place_holder = ', '.join(['%s' for _ in vals]) 
     q = """
