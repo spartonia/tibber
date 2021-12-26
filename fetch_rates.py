@@ -1,5 +1,4 @@
 import requests
-import warnings
 
 from datetime import datetime
 
