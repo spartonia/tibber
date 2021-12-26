@@ -1,0 +1,325 @@
+market,product_name,parent_sku,variation_sku,purchase_price,installation
+SE,Easee - Laddbox,TI0002,TI0002BL-ING,1414,TRUE
+SE,Easee - Laddbox,TI0002,TI0002WT-ING,4908,TRUE
+SE,Easee - Laddbox,TI0002,TI0002BK-IN,3829,TRUE
+SE,Easee - Laddbox,TI0002,TI0002WT-IN,4775,TRUE
+SE,Easee - Laddbox,TI0002,TI0002GY-IN,2240,TRUE
+SE,Easee - Laddbox,TI0002,TI0002BK-ING,5327,TRUE
+SE,Easee - Laddbox,TI0002,TI0002GY-ING,311,TRUE
+SE,Easee - Laddbox,TI0002,TI0002RD-ING,3110,TRUE
+SE,Easee - Laddbox,TI0002,TI0002BL-IN,5575,TRUE
+SE,Easee - Laddbox,TI0002,TI0002RD-IN,5650,TRUE
+NO,Philips Hue - Startpakke Lily,TI20C3,TI20C3,357,FALSE
+NO,Philips Hue - Centura Spotlys Rund,TI2044,TI2044WT,1901,FALSE
+NO,Philips Hue - Centura Spotlys Rund,TI2044,TI2044SR,859,FALSE
+NO,Philips Hue - Centura Spotlys Firkantet,TI2045,TI2045WT,348,FALSE
+NO,Philips Hue - Play Skjøteledning,TI2032,TI2032,2388,FALSE
+NO,Philips Hue - Centura Spotlys Firkantet,TI2045,TI2045SR,1852,FALSE
+NO,"Philips Hue - Gradient Lightstrip 75""",TI2039,TI2039,1875,FALSE
+NO,Easee - Ladestolpe,TI0047,TI0047DL,5163,FALSE
+NO,RFID Brikke - 3-pakke,TI0045,TI0045,4392,FALSE
+NO,Philips Hue - White Luster E14,TI2042,TI2042,3675,FALSE
+NO,Mill - Panelovn Steel 1200W,TI0066,TI0066,1366,FALSE
+NO,Philips Hue - Lily (3 pk),TI2007,TI2007,1935,FALSE
+NO,Netatmo - Vind & Regn Brakett,TI0018,TI0018,2337,FALSE
+NO,Senic - Smart Switch,TI0068,TI0068BK,4878,FALSE
+NO,"Ladekabel  – Type 2, 20A, 3-fas",TI0034,TI0034M5,1908,FALSE
+NO,Senic - Smart Switch,TI0068,TI0068GWT,1457,FALSE
+NO,Easee - Ladeboks,TI0002EL,TI0002BLEL,752,FALSE
+NO,Philips Hue - Play Extension,TI2031,TI2031BK,5192,FALSE
+NO,Easee - Ladeboks,TI0002EL,TI0002GYEL,1614,FALSE
+NO,Philips Hue - Play Extension,TI2031,TI2031WH,1888,FALSE
+NO,Easee - Ladeboks,TI0002EL,TI0002WTEL,1145,FALSE
+NO,Sensibo - Termostat for Luftvarmepumpe,TI0005,TI0005BK,3389,FALSE
+SE,Netatmo - Vind &amp; Regn Fäste,TI0018,TI0018,428,FALSE
+NO,"Ladekabel  – Type 2, 32A, 3-fas",TI0033,TI0033M7,3169,FALSE
+SE,Netatmo - Vindmätare,TI0017,TI0017,4808,FALSE
+SE,Netatmo - Extra Termostat,TI0008,TI0008,5969,FALSE
+SE,Philips Hue - White Filament E27 G125,TI2040,TI2040,1354,FALSE
+SE,Philips Hue - Play,TI2029,TI2029BK,2946,FALSE
+SE,Aeotec - Smart Switch 7,TI0046,TI0046,3551,FALSE
+SE,tado° - Smart AC Control Fjärrkontroll,TI0055,TI0055,972,FALSE
+SE,Philips Hue - White/Color Ambiance E27 (2-pack),TI2021P2,TI2021P2,5436,FALSE
+SE,Fibaro - Multisensor,TI0020,TI0020,3713,FALSE
+SE,Sensibo Pure - Smart luftrenare,TI0027,TI0027,5055,FALSE
+NO,Sensibo Pure - Smart luftrenser,TI0027,TI0027,5969,FALSE
+SE,Sensibo Pure - Filter,TI0028,TI0028,242,FALSE
+NO,Netatmo - Regnmåler,TI0016,TI0016,2678,FALSE
+SE,Sensibo - Termostat för Luftvärmepump,TI0005,TI0005BK,4386,FALSE
+NO,Netatmo - Vindmåler,TI0017,TI0017,3595,FALSE
+SE,"Laddkabel - Typ 2, 32A, 3-fas",TI0033,TI0033M5,524,FALSE
+SE,Philips Hue - White GU10 (2-pack),TI2022P2,TI2022P2,4108,FALSE
+NO,"Philips Hue - Gradient Lightstrip 65""",TI2038,TI2038,1040,FALSE
+SE,Philips Hue - Lightstrip Plus,TI2012,TI2012,2370,FALSE
+NO,Philips Hue - White E27 (2 pk),TI2019P2,TI2019P2,4835,FALSE
+SE,tado° - Smart Radiator Termostat,TI0050,TI0050P4G2,2587,FALSE
+NO,Philips Hue - Lucca,TI2006,TI2006,4508,FALSE
+SE,Netatmo - Regnmätare,TI0016,TI0016,4173,FALSE
+NO,Philips Hue - White Ambiance E27 inkl. Dimmer,TI2020DI,TI2020DI,5864,FALSE
+SE,Easee - Frontkåpa,TI1002,TI1002BL,5006,FALSE
+NO,Philips Hue - White Ambiance GU10 (2 pk),TI2023P2,TI2023P2,1757,FALSE
+SE,Senic - Smart Switch,TI0068,TI0068GWT,1493,FALSE
+NO,Easee - Frontdeksel,TI1002,TI1002RD,4337,FALSE
+SE,Senic - Smart Switch,TI0068,TI0068MWT,4785,FALSE
+NO,Easee - Frontdeksel,TI1002,TI1002GY,5552,FALSE
+SE,Senic - Smart Switch,TI0068,TI0068GY,4085,FALSE
+NO,Fibaro - Multisensor,TI0020,TI0020,1783,FALSE
+SE,Heatit - Termostat Z-TRM3,TI0056,TI0056BK,3646,FALSE
+NO,Fibaro - Dimmer 2,TI0059,TI0059,2773,FALSE
+SE,Ngenic Tune - Smart Termostat,TI0006,TI0006,3413,FALSE
+SE,Senic - Outdoor Switch,TI0069,TI0069,4037,FALSE
+SE,Philips Hue - Being,TI2047,TI2047SR,4299,FALSE
+SE,Philips Hue - Rörelsesensor,TI2014,TI2014,655,FALSE
+SE,Philips Hue - Startpaket White E27,TI2002,TI2002,1546,FALSE
+SE,tado° - Extension Kit,TI0051,TI0051,3334,FALSE
+SE,Mill - Element Stål 600W,TI0064,TI0064,4209,FALSE
+SE,tado° - Smart Radiator Termostat,TI0050,TI0050P1G2,2022,FALSE
+SE,"Laddkabel - Typ 2, 20A, 3-fas",TI0034,TI0034M5,1171,FALSE
+SE,Easee - Frontkåpa,TI1002,TI1002GY,4770,FALSE
+NO,Philips Hue - Startpakke Lucca,TI20C2,TI20C2,4129,FALSE
+SE,Easee - Frontkåpa,TI1002,TI1002WT,3010,FALSE
+NO,Philips Hue - Calla,TI2035,TI2035EX,2264,FALSE
+SE,Philips Hue - Calla Large,TI2036,TI2036ST,1977,FALSE
+NO,tado° - Startpakke Smart Radiator Termostat,TI0054,TI0054,4918,FALSE
+SE,Philips Hue - Calla Large,TI2036,TI2036EX,2663,FALSE
+NO,Philips Hue - White Ambiance E27 (2 pk),TI2020P2,TI2020P2,2597,FALSE
+SE,Sensibo - Air,TI0048,TI0048,1922,FALSE
+NO,Philips Hue - White Filament E27 ST64,TI2027,TI2027,3665,FALSE
+SE,Easee - Laddstolpe,TI0047,TI0047DL,210,FALSE
+NO,Philips Hue - Startpakke White E27,TI2002,TI2002,2447,FALSE
+SE,Athom Homey - Smart hub,TI0024,TI0024,2692,FALSE
+NO,Aqara - Smart Plug,TI0039,TI0039,1610,FALSE
+NO,tado° - Smart Radiator Termostat,TI0050,TI0050P2,532,FALSE
+NO,Philips Hue - Play,TI2029,TI2029BK,606,FALSE
+NO,tado° - Smart Radiator Termostat,TI0050,TI0050P1,2848,FALSE
+NO,Easee - Ladeboks,TI0002,TI0002BK,3846,FALSE
+NO,Philips Hue - White/Color Ambiance GU10,TI2024,TI2024,380,FALSE
+SE,tado° - Startpaket Smart Termostat,TI0052,TI0052,464,FALSE
+NO,Aeotec - Smart Switch 7,TI0046,TI0046,832,FALSE
+SE,Philips Hue - White Ambiance GU10 (2-pack),TI2023P2,TI2023P2,5057,FALSE
+NO,Philips Hue - Lightstrip Utendørs 2 m,TI2010,TI2010,3935,FALSE
+SE,Mill - Element Stål 1200W,TI0066,TI0066,3684,FALSE
+NO,Mill - Panelovn Steel 600W,TI0064,TI0064,1037,FALSE
+SE,Mill - Element Glas 900W,TI0062,TI0062,5437,FALSE
+NO,Netatmo - Ekstra Innendørs Sensor,TI0015,TI0015,3684,FALSE
+SE,Philips Hue - White/Color Ambiance GU10,TI2024,TI2024,1025,FALSE
+NO,Philips Hue - White/Color Ambiance GU10 (2 pk),TI2024P2,TI2024P2,1692,FALSE
+SE,Philips Hue - White Filament E27 G93,TI2026,TI2026,2386,FALSE
+NO,Philips Hue - Play,TI2029,TI2029WH,5813,FALSE
+SE,Easee - Laddbox,TI0002,TI0002GY,2466,FALSE
+NO,Easee - Ladeboks,TI0002,TI0002GY,2578,FALSE
+NO,Philips Hue - Adore spotlys,TI2046,TI2046P3,1092,FALSE
+NO,Easee - Ladeboks,TI0002,TI0002BL,5384,FALSE
+NO,Philips Hue - Still,TI2048,TI2048SR,4377,FALSE
+SE,Philips Hue - White Luster E14,TI2042,TI2042,3463,FALSE
+NO,Philips Hue - Appear,TI2034,TI2034SR,1895,FALSE
+SE,Philips Hue - White Ambiance E27,TI2020,TI2020,4235,FALSE
+NO,tado° – Extension Kit,TI0051,TI0051,2231,FALSE
+SE,Philips Hue - Lightstrip Plus - Förlängning,TI2013,TI2013,2062,FALSE
+NO,Philips Hue - Being,TI2047,TI2047SR,3168,FALSE
+SE,Fibaro - Wall Plug,TI0021,TI0021,5253,FALSE
+NO,Philips Hue - White Ambiance E14,TI2017,TI2017,577,FALSE
+SE,Mill - Element Glas 600W,TI0061,TI0061,3389,FALSE
+NO,"Ladekabel  – Type 1, 32A, 1-fas",TI0035,TI0035M5,5981,FALSE
+SE,Easee - Kabelhållare,TI0044,TI0044,3834,FALSE
+NO,Fibaro - Wall Plug,TI0021,TI0021,1634,FALSE
+SE,Watty - Smart Energimätare,TI0004,TI0004C,2116,FALSE
+NO,Google - Nest Audio,TI0030,TI0030CK,2601,FALSE
+SE,Easee - Laddbox,TI0002,TI0002BL,1510,FALSE
+SE,"Laddkabel - Typ 1, 32A, 1-fas",TI0035,TI0035M7,4681,FALSE
+SE,Easee - Laddbox,TI0002,TI0002WT,5662,FALSE
+SE,Philips Hue - White E27 inkl. Dimmer,TI2019DI,TI2019DI,530,FALSE
+NO,Philips Hue - Calla Large,TI2036,TI2036ST,1895,FALSE
+SE,Google - Nest Mini,TI0031,TI0031CK,5268,FALSE
+NO,Philips Hue - Calla Large,TI2036,TI2036EX,1493,FALSE
+SE,Philips Hue - Adore Spotlight,TI2046,TI2046P3,5553,FALSE
+NO,Philips Hue - White E27 inkl. Dimmer,TI2019DI,TI2019DI,1586,FALSE
+SE,Philips Hue - Centura Spotlight Fyrkantig,TI2045,TI2045WT,1363,FALSE
+NO,Easee - Kabelholder,TI0044,TI0044,1073,FALSE
+SE,Philips Hue - Still,TI2048,TI2048SR,5532,FALSE
+NO,Philips Hue - Startpakke White/Color Ambiance GU10,TI2004,TI2004,3661,FALSE
+SE,Netatmo - Luftkvalitetsmätare,TI0019,TI0019,1430,FALSE
+NO,Google - Nest Mini,TI0031,TI0031CH,4060,FALSE
+SE,Aqara - Temp- & Fuktsensor,TI0036,TI0036,1525,FALSE
+NO,Google - Nest Mini,TI0031,TI0031CK,5514,FALSE
+SE,Philips Hue - Smart Plug,TI2015,TI2015,2491,FALSE
+NO,Heatit - Termostat Z-TRM3,TI0056,TI0056WT,1318,FALSE
+NO,Philips Hue - Startpakke Lightstrip Outdoor,TI20C4,TI20C4,2485,FALSE
+NO,Philips Hue - White Ambiance E14 (2 pk),TI2017P2,TI2017P2,3717,FALSE
+NO,Mill - Gulvovn 1200W,TI0067,TI0067,1114,FALSE
+NO,Philips Hue - Play (2 pk),TI2030,TI2030WH,2201,FALSE
+NO,Netatmo - Ekstra termostat,TI0008,TI0008,5556,FALSE
+SE,Watty - Installationskit,TI0004IN,TI0004IN,4936,FALSE
+NO,Philips Hue - Play HDMI Sync Box,TI2033,TI2033,231,FALSE
+SE,Mill - Golvelement 1200W,TI0067,TI0067,1994,FALSE
+NO,Ngenic Tune - Smart Termostat,TI0006,TI0006,4750,FALSE
+SE,Philips Hue - White/Color Ambiance E14 (2-pack),TI2018P2,TI2018P2,3465,FALSE
+NO,Philips Hue - White Filament E27 A60,TI2025,TI2025,3983,FALSE
+SE,Philips Hue - White E14,TI2016,TI2016,944,FALSE
+NO,Netatmo Starter Kit - Smart Termostat,TI0007,TI0007,1066,FALSE
+SE,tado° - Startpaket Smart Radiator Termostat,TI0054,TI0054G2,3392,FALSE
+NO,tado° - Startpakke Smart Termostat,TI0052,TI0052,5034,FALSE
+SE,Aeotec - Multisensor,TI0011,TI0011,1266,FALSE
+NO,Senic - Smart Switch,TI0068,TI0068MWT,4333,FALSE
+SE,Philips Hue - White/Color Ambiance GU10 (2-pack),TI2024P2,TI2024P2,3862,FALSE
+NO,Aqara - Bevegelsesdetektor,TI0037,TI0037,1476,FALSE
+SE,Aeotec - Heavy Duty Switch,TI0012,TI0012,2736,FALSE
+NO,"Ladekabel  – Type 2, 20A, 3-fas",TI0034,TI0034M7,5823,FALSE
+SE,Philips Hue - Bridge,TI2001,TI2001,5158,FALSE
+NO,Aqara - TVOC Luftkvalitetsmåler,TI0040,TI0040,4858,FALSE
+SE,Netatmo - Extra Inomhussensor,TI0015,TI0015,1754,FALSE
+SE,"Philips Hue - Gradient Lightstrip 75""",TI2039,TI2039,1328,FALSE
+SE,Philips Hue - Still,TI2048,TI2048WT,3994,FALSE
+SE,Philips Hue - White Filament E27 ST72,TI2041,TI2041,3458,FALSE
+SE,Athom Homey Pro - Smart Hub,TI0025,TI0025,392,FALSE
+SE,Fibaro - Double Switch 2,TI0058,TI0058,4840,FALSE
+SE,Aqara - Smart Plug,TI0039,TI0039,2261,FALSE
+SE,Philips Hue - Lily (3-pack),TI2007,TI2007,497,FALSE
+SE,Fibaro - Dimmer 2,TI0059,TI0059,2949,FALSE
+SE,"Philips Hue - Gradient Lightstrip 55""",TI2037,TI2037,1697,FALSE
+NO,Heatit - Svart Plastsett,TI0056BKC,TI0056BKC,4029,FALSE
+SE,Philips Hue - Play HDMI Sync Box,TI2033,TI2033,1925,FALSE
+NO,tado° - Trådløs temperatursensor,TI0049,TI0049,603,FALSE
+SE,Philips Hue - Lightstrip Outdoor 5 m,TI2011,TI2011,4782,FALSE
+NO,Easee - Ladestolpe,TI0047,TI0047SL,5021,FALSE
+SE,Philips Hue - Startpaket White Ambiance E27,TI2005,TI2005,4533,FALSE
+NO,Fibaro - Single Switch 2,TI0057,TI0057,3519,FALSE
+SE,Google - Nest Hub (2nd gen),TI0032,TI0032CKG2,3276,FALSE
+NO,Philips Hue - Startpakke White/Color Ambiance E27,TI2003,TI2003,4033,FALSE
+NO,tado° - Smart Termostat,TI0053,TI0053,5959,FALSE
+NO,Senic - Smart Switch,TI0068,TI0068GY,4551,FALSE
+NO,Philips Hue - White Filament E27 G93,TI2026,TI2026,1774,FALSE
+NO,Philips Hue - Lightstrip Utendørs 5 m,TI2011,TI2011,3608,FALSE
+NO,Philips Hue - Lightstrip Plus - Forlengning,TI2013,TI2013,3392,FALSE
+NO,Philips Hue - White E14,TI2016,TI2016,4583,FALSE
+NO,Easee - Frontdeksel,TI1002,TI1002BK,1889,FALSE
+NO,Philips Hue - Smart Plug,TI2015,TI2015,2972,FALSE
+NO,Mill - Panelovn Glass 600W,TI0061,TI0061,4112,FALSE
+NO,Philips Hue - Dimmer,TI2028,TI2028,1751,FALSE
+NO,Philips Hue - White Luster E14 (2 pk),TI2043,TI2043,3385,FALSE
+NO,Sensibo - Termostat for Luftvarmepumpe,TI0005,TI0005WT,2267,FALSE
+SE,Aeotec - Multisensor Fäste,TI0013,TI0013,852,FALSE
+NO,Easee - Ladeboks,TI0002EL,TI0002RDEL,1798,FALSE
+SE,Philips Hue - Play Förlängningskabel,TI2032,TI2032,5354,FALSE
+NO,Easee - Ladeboks,TI0002EL,TI0002BKEL,2488,FALSE
+SE,Easee - Frontkåpa,TI1002,TI1002BK,3906,FALSE
+NO,Tibber - Pulse,TI0001,TI0001,5051,FALSE
+SE,Easee - Frontkåpa,TI1002,TI1002RD,3109,FALSE
+NO,"Ladekabel  – Type 2, 32A, 3-fas",TI0033,TI0033M5,2261,FALSE
+SE,Heatit - Termostat Z-TRM3,TI0056,TI0056WT,5796,FALSE
+SE,"Philips Hue - Gradient Lightstrip 65""",TI2038,TI2038,4575,FALSE
+SE,Mill - Element Glas 1200W,TI0063,TI0063,2447,FALSE
+SE,Philips Hue - Play,TI2029,TI2029WH,2611,FALSE
+SE,Philips Hue - Startpaket White/Color Ambiance E27,TI2003,TI2003,2191,FALSE
+SE,Fibaro - Single Switch 2,TI0057,TI0057,4361,FALSE
+SE,Philips Hue - Startpaket Lucca,TI20C2,TI20C2,483,FALSE
+SE,Sensibo - Termostat för Luftvärmepump,TI0005,TI0005WT,3991,FALSE
+SE,Philips Hue - Startpaket Lightstrip Outdoor,TI20C4,TI20C4,3407,FALSE
+SE,Fibaro - Rökdetektor,TI0022,TI0022,2316,FALSE
+SE,Philips Hue - Being,TI2047,TI2047BK,5596,FALSE
+SE,Google - Nest Audio,TI0030,TI0030CK,4605,FALSE
+SE,Philips Hue - Being,TI2047,TI2047WT,3951,FALSE
+SE,Google - Nest Audio,TI0030,TI0030CH,3711,FALSE
+SE,Philips Hue - Utomhussensor,TI2009,TI2009,1992,FALSE
+SE,"Laddkabel - Typ 2, 32A, 3-fas",TI0033,TI0033M7,1440,FALSE
+SE,Aqara - Dörr/fönstersensor,TI0038,TI0038,3233,FALSE
+SE,Google - Nest Hub (2nd gen),TI0032,TI0032CHG2,2534,FALSE
+SE,Easee - Laddstolpe,TI0047,TI0047SL,3395,FALSE
+NO,Mill - Panelovn Glass 1200W,TI0063,TI0063,1625,FALSE
+SE,Tibber - Pulse,TI0001,TI0001,2350,FALSE
+NO,Netatmo - Luftkvalitetsmålere,TI0019,TI0019,4561,FALSE
+NO,Mill - Panelovn Steel 900W,TI0065,TI0065,3238,FALSE
+NO,Philips Hue - White/Color Ambiance E14 (2 pk),TI2018P2,TI2018P2,1918,FALSE
+NO,"Philips Hue - Gradient Lightstrip 55""",TI2037,TI2037,1619,FALSE
+NO,Philips Hue - Utendørssensor,TI2009,TI2009,2715,FALSE
+NO,Tibber Pulse - Gjenopplivet,TI0001REF,TI0001REF,4061,FALSE
+NO,Easee - Frontdeksel,TI1002,TI1002WT,5994,FALSE
+NO,Senic - Outdoor Switch,TI0069,TI0069,1737,FALSE
+NO,Easee - Frontdeksel,TI1002,TI1002BL,4168,FALSE
+NO,Sensibo Pure - Filter,TI0028,TI0028,5014,FALSE
+NO,Philips Hue - Lightstrip Plus,TI2012,TI2012,4001,FALSE
+NO,Aqara - Dør- og vindussensor,TI0038,TI0038,1344,FALSE
+NO,Mill - Panelovn Glass 900W,TI0062,TI0062,871,FALSE
+NO,Mill - WiFi Termostat,TI0042,TI0042,1685,FALSE
+NO,Philips Hue - White/Color Ambiance E27,TI2021,TI2021,1596,FALSE
+NO,Philips Hue - Startpakke White Ambiance E27,TI2005,TI2005,1042,FALSE
+NO,Aqara - Temperatur- og fuktighetssensor,TI0036,TI0036,1549,FALSE
+NO,Google - Nest Hub (2nd gen),TI0032,TI0032CKG2,1728,FALSE
+NO,Sensibo - Air,TI0048,TI0048,5538,FALSE
+NO,Easee - Ladeboks,TI0002,TI0002WT,3005,FALSE
+SE,Philips Hue - White Ambiance E27 (2-pack),TI2020P2,TI2020P2,547,FALSE
+SE,tado° - Smart Termostat,TI0053,TI0053,5405,FALSE
+SE,tado° - Smart Radiator Termostat,TI0050,TI0050P2G2,5530,FALSE
+SE,Philips Hue - Startpaket White/Color Ambiance GU10,TI2004,TI2004,1978,FALSE
+SE,Mill - WiFi Termostat,TI0042,TI0042,5694,FALSE
+SE,Philips Hue - White Ambiance E27 inkl. Dimmer,TI2020DI,TI2020DI,494,FALSE
+SE,Senic - Smart Switch,TI0068,TI0068BK,4229,FALSE
+SE,Philips Hue - Play (2-pack),TI2030,TI2030BK,4794,FALSE
+SE,Philips Hue - White Filament E27 A60,TI2025,TI2025,2151,FALSE
+SE,Aqara - Rörelsedetektor,TI0037,TI0037,2760,FALSE
+SE,"Laddkabel - Typ 2, 20A, 3-fas",TI0034,TI0034M7,3470,FALSE
+SE,Netatmo Startpaket - Smart Termostat,TI0007,TI0007,5257,FALSE
+NO,tado° - Smart Radiator Termostat,TI0050,TI0050P4,3347,FALSE
+SE,Philips Hue - Dimmer,TI2028,TI2028,820,FALSE
+NO,Philips Hue - Calla,TI2035,TI2035ST,3322,FALSE
+SE,Easee - Laddbox,TI0002,TI0002RD,2825,FALSE
+NO,Philips Hue - Skjøteledning,TI2008,TI2008,5845,FALSE
+NO,Fibaro - Double Switch 2,TI0058,TI0058,3485,FALSE
+NO,Philips Hue - White GU10 (2 pk),TI2022P2,TI2022P2,3809,FALSE
+NO,Philips Hue - Appear,TI2034,TI2034BK,2685,FALSE
+NO,Philips Hue - Bridge,TI2001,TI2001,336,FALSE
+NO,tado° - Smart AC Remote,TI0055,TI0055,5597,FALSE
+NO,Athom Homey Pro - Smart Hub,TI0025,TI0025,2355,FALSE
+NO,Aeotec - Multisensor Brakett,TI0013,TI0013,5029,FALSE
+NO,Netatmo - Værstasjon,TI0014,TI0014,2039,FALSE
+NO,Philips Hue - White Filament E27 G125,TI2040,TI2040,1477,FALSE
+NO,Google - Nest Hub (2nd gen),TI0032,TI0032CHG2,4139,FALSE
+NO,Philips Hue - Being,TI2047,TI2047WT,4034,FALSE
+NO,Easee - Ladeboks,TI0002,TI0002RD,4114,FALSE
+NO,Philips Hue - White Ambiance E27,TI2020,TI2020,856,FALSE
+SE,Philips Hue - Lucca,TI2006,TI2006,3238,FALSE
+NO,Philips Hue - Bevegelsessensor,TI2014,TI2014,497,FALSE
+SE,RFID-taggar - 3-pack,TI0045,TI0045,3920,FALSE
+NO,Philips Hue - White/Color Ambiance E27 (2 pk),TI2021P2,TI2021P2,3518,FALSE
+SE,Philips Hue - Play (2-pack),TI2030,TI2030WH,3065,FALSE
+SE,Fibaro - Radiator Thermostat Startpaket,TI0060,TI0060,5304,FALSE
+SE,Philips Hue - Förlängningskabel,TI2008,TI2008,2147,FALSE
+SE,tado° - Trådlös temperatursensor,TI0049,TI0049,1509,FALSE
+SE,Aqara - TVOC Luftkvalitetsmätare,TI0040,TI0040,4210,FALSE
+SE,Mill - Element Stål 900W,TI0065,TI0065,2983,FALSE
+SE,Easee - Laddbox,TI0002,TI0002BK,1983,FALSE
+SE,Philips Hue - Calla,TI2035,TI2035EX,1401,FALSE
+NO,Philips Hue - Adore spotlys,TI2046,TI2046,2007,FALSE
+SE,"Laddkabel - Typ 1, 32A, 1-fas",TI0035,TI0035M5,5947,FALSE
+NO,Philips Hue - Still,TI2048,TI2048BK,5996,FALSE
+SE,Heatit - Svart Plastkit,TI0056BKC,TI0056BKC,5724,FALSE
+NO,Philips Hue - Still,TI2048,TI2048WT,5997,FALSE
+SE,tado° - Startpaket Radiatortermostat (5-pack),TI00C1,TI00C1,4894,FALSE
+NO,Aeotec - Multisensor 6,TI0011,TI0011,4549,FALSE
+SE,Philips Hue - White Luster E14 (2-pack),TI2043,TI2043,4576,FALSE
+NO,Futurehome - Smart Hub,TI0026,TI0026,996,FALSE
+SE,Philips Hue - Centura Spotlight Rund,TI2044,TI2044WT,2165,FALSE
+NO,Aeotec - Heavy Duty Switch,TI0012,TI0012,3737,FALSE
+SE,Philips Hue - Centura Spotlight Rund,TI2044,TI2044SR,1013,FALSE
+NO,Philips Hue - White Filament E27 ST72,TI2041,TI2041,5554,FALSE
+SE,Philips Hue - Startpaket Lily,TI20C3,TI20C3,2472,FALSE
+NO,Philips Hue - Being,TI2047,TI2047BK,4563,FALSE
+SE,Philips Hue - White Filament E27 ST64,TI2027,TI2027,3252,FALSE
+NO,"Ladekabel  – Type 1, 32A, 1-fas",TI0035,TI0035M7,1509,FALSE
+NO,Google - Nest Audio,TI0030,TI0030CH,4939,FALSE
+NO,Philips Hue - Play (2 pk),TI2030,TI2030BK,1290,FALSE
+SE,Philips Hue - Lightstrip Outdoor 2 m,TI2010,TI2010,1024,FALSE
+SE,Philips Hue - Play Extension,TI2031,TI2031WH,4601,FALSE
+SE,Philips Hue - Play Extension,TI2031,TI2031BK,5724,FALSE
+SE,Philips Hue - Appear,TI2034,TI2034BK,1127,FALSE
+SE,Philips Hue - Appear,TI2034,TI2034SR,4451,FALSE
+SE,Philips Hue - Calla,TI2035,TI2035ST,3002,FALSE
+SE,Philips Hue - White E27 (2-pack),TI2019P2,TI2019P2,3925,FALSE
+SE,Philips Hue - White/Color Ambiance E27,TI2021,TI2021,4066,FALSE
+SE,Google - Nest Mini,TI0031,TI0031CH,2036,FALSE
+SE,Philips Hue - Adore Spotlight,TI2046,TI2046,3112,FALSE
+SE,Philips Hue - Centura Spotlight Fyrkantig,TI2045,TI2045SR,4620,FALSE
+SE,Philips Hue - Still,TI2048,TI2048BK,1519,FALSE
+SE,Philips Hue - White Ambiance E14,TI2017,TI2017,5251,FALSE
+SE,Philips Hue - White Ambiance E14 (2-pack),TI2017P2,TI2017P2,2220,FALSE
+SE,Netatmo - Väderstation,TI0014,TI0014,2174,FALSE
