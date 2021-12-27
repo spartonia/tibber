@@ -59,7 +59,7 @@ normalised AS(
  SELECT * FROM normalised;
 ```
 
-### Task 2
+### Task 3
 
 Create a query returning the top-3 most expensive products that do not require
 the installation service and can be bought in Norway.
@@ -73,7 +73,7 @@ ORDER BY purchase_price DESC
 LIMIT 3;
 ```
 
-### Task 3
+### Task 4
 
 Create a query returning the average product price in Sweden without taking into
 account Easee products.
