@@ -18,3 +18,33 @@ CREATE TABLE IF NOT EXISTS rate (
 
 );
 """
+
+NORMALIZED_PRICES_VIEW = """
+CREATE VIEW normalised_prices AS
+WITH latest_rates AS (
+    SELECT * FROM rate WHERE date IN (SELECT MAX(date) FROM rate)
+),
+normalised AS(
+    SELECT product_id, product_name, purchase_price / rate AS normalised_price
+    FROM product p
+    INNER JOIN latest_rates r
+    ON p.currency = r.to_currency
+)
+ SELECT * FROM normalised;
+"""
+
+TOP_3_PRODUCTS_NORWAY = """
+    SELECT *
+    FROM product
+    WHERE currency = 'NOK'
+    AND installation = false
+    ORDER BY purchase_price DESC
+    LIMIT 3;
+"""
+
+AVG_PRODUCT_PRICE_SWEDEN = """
+    SELECT AVG(purchase_price) AS average_price_sweden
+    FROM product
+    WHERE currency = 'SEK'
+    AND product_name NOT LIKE '%Easee%';
+"""

@@ -71,6 +71,6 @@ def insert_products(cursor=None):
 
 
 if __name__ == '__main__':
-    create_tables()
-    insert_products()
-    fetch_rates_and_insert()
+    # create_tables()
+    # insert_products()
+    fetch_rates_and_insert('2021-12-26')
