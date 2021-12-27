@@ -31,7 +31,7 @@ def create_tables(cursor=None):
 
 
 
-def read_csv(csv_file = 'data.csv'):
+def read_csv(csv_file):
     print("Reading products from csv file..")
     with open(csv_file) as f:
         lines = list(csv.reader(f, delimiter=','))
@@ -45,9 +45,9 @@ def read_csv(csv_file = 'data.csv'):
     return dict_lines
 
 @with_cursor
-def insert_products(cursor=None):
+def insert_products(cursor=None, csv_file = 'data.csv'):
     print("Populating product table..")
-    items = read_csv()
+    items = read_csv(csv_file)
     j = [dict(
         product_id = item['market'] + '-' + item['variation_sku'],
         product_name = item['product_name'],
@@ -71,6 +71,7 @@ def insert_products(cursor=None):
 
 
 if __name__ == '__main__':
-    # create_tables()
-    # insert_products()
-    fetch_rates_and_insert('2021-12-26')
+    # TODO get and parse args from cmdLine 
+    create_tables()
+    insert_products()
+    fetch_rates_and_insert()
